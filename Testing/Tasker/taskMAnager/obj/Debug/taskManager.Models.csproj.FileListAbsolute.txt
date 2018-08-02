@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskMAnager\obj\Debug\taskManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskMAnager\bin\Debug\taskMAnager.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskMAnager\bin\Debug\taskMAnager.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskMAnager\obj\Debug\taskMAnager.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskMAnager\obj\Debug\taskMAnager.pdb

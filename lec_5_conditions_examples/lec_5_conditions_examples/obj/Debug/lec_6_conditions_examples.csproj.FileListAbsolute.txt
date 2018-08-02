@@ -1,0 +1,6 @@
+D:\Telerik\lec_5_conditions_examples\lec_5_conditions_examples\obj\Debug\lec_6_conditions_examples.csprojResolveAssemblyReference.cache
+D:\Telerik\lec_5_conditions_examples\lec_5_conditions_examples\bin\Debug\lec_5_conditions_examples.exe.config
+D:\Telerik\lec_5_conditions_examples\lec_5_conditions_examples\bin\Debug\lec_5_conditions_examples.exe
+D:\Telerik\lec_5_conditions_examples\lec_5_conditions_examples\bin\Debug\lec_5_conditions_examples.pdb
+D:\Telerik\lec_5_conditions_examples\lec_5_conditions_examples\obj\Debug\lec_5_conditions_examples.exe
+D:\Telerik\lec_5_conditions_examples\lec_5_conditions_examples\obj\Debug\lec_5_conditions_examples.pdb

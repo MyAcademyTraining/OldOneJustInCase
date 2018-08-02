@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\BuildingStrings\bin\Debug\BuildingStrings.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\BuildingStrings\bin\Debug\BuildingStrings.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\BuildingStrings\bin\Debug\BuildingStrings.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\BuildingStrings\obj\Debug\BuildingStrings.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\BuildingStrings\obj\Debug\BuildingStrings.pdb

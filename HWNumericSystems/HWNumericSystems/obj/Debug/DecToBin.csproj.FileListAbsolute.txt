@@ -1,0 +1,12 @@
+D:\Telerik\HWNumericSystems\HWNumericSystems\bin\Debug\HWNumericSystems.exe.config
+D:\Telerik\HWNumericSystems\HWNumericSystems\bin\Debug\HWNumericSystems.exe
+D:\Telerik\HWNumericSystems\HWNumericSystems\bin\Debug\HWNumericSystems.pdb
+D:\Telerik\HWNumericSystems\HWNumericSystems\obj\Debug\DecToBin.csprojResolveAssemblyReference.cache
+D:\Telerik\HWNumericSystems\HWNumericSystems\obj\Debug\HWNumericSystems.exe
+D:\Telerik\HWNumericSystems\HWNumericSystems\obj\Debug\HWNumericSystems.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HWNumericSystems\bin\Debug\HWNumericSystems.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HWNumericSystems\obj\Debug\HWNumericSystems.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HWNumericSystems\obj\Debug\HWNumericSystems.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HWNumericSystems\bin\Debug\HWNumericSystems.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HWNumericSystems\bin\Debug\HWNumericSystems.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HWNumericSystems\obj\Debug\DecToBin.csprojResolveAssemblyReference.cache

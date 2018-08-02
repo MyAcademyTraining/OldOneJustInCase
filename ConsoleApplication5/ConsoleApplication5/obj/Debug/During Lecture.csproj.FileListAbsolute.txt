@@ -1,0 +1,6 @@
+D:\Telerik\ConsoleApplication5\ConsoleApplication5\obj\Debug\During Lecture.csprojResolveAssemblyReference.cache
+D:\Telerik\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Telerik\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Telerik\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Telerik\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Telerik\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

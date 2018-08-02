@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\UnicodeChar\bin\Debug\UnicodeChar.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\UnicodeChar\bin\Debug\UnicodeChar.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\UnicodeChar\obj\Debug\UnicodeChar.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\UnicodeChar\obj\Debug\UnicodeChar.pdb

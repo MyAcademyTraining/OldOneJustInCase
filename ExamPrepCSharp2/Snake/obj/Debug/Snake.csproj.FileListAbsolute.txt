@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Snake\bin\Debug\Snake.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Snake\bin\Debug\Snake.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Snake\bin\Debug\Snake.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Snake\obj\Debug\Snake.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Snake\obj\Debug\Snake.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache

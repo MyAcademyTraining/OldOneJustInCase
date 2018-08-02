@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_prep", "Exam_prep\Exam_prep.csproj", "{B55908D2-D568-4BC8-B005-A6B3B1747DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingLetters", "MovingLetters\MovingLetters.csproj", "{89E0C9D5-3046-4631-8649-1407BA16D53F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeEncrypt", "EncodeEncrypt\EncodeEncrypt.csproj", "{5BE8F8D9-EA81-4809-91F9-37D1A3DD6FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55908D2-D568-4BC8-B005-A6B3B1747DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55908D2-D568-4BC8-B005-A6B3B1747DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55908D2-D568-4BC8-B005-A6B3B1747DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55908D2-D568-4BC8-B005-A6B3B1747DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E0C9D5-3046-4631-8649-1407BA16D53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E0C9D5-3046-4631-8649-1407BA16D53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E0C9D5-3046-4631-8649-1407BA16D53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E0C9D5-3046-4631-8649-1407BA16D53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE8F8D9-EA81-4809-91F9-37D1A3DD6FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE8F8D9-EA81-4809-91F9-37D1A3DD6FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE8F8D9-EA81-4809-91F9-37D1A3DD6FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE8F8D9-EA81-4809-91F9-37D1A3DD6FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

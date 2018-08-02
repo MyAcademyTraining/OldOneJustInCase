@@ -1,0 +1,5 @@
+D:\Telerik\homeworkArray2\Lecture\bin\Debug\Lecture.exe.config
+D:\Telerik\homeworkArray2\Lecture\bin\Debug\Lecture.exe
+D:\Telerik\homeworkArray2\Lecture\bin\Debug\Lecture.pdb
+D:\Telerik\homeworkArray2\Lecture\obj\Debug\Lecture.exe
+D:\Telerik\homeworkArray2\Lecture\obj\Debug\Lecture.pdb

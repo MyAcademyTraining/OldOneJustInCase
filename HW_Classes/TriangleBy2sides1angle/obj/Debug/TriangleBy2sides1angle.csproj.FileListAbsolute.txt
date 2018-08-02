@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\TriangleBy2sides1angle\bin\Debug\TriangleBy2sides1angle.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\TriangleBy2sides1angle\bin\Debug\TriangleBy2sides1angle.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\TriangleBy2sides1angle\bin\Debug\TriangleBy2sides1angle.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\TriangleBy2sides1angle\obj\Debug\TriangleBy2sides1angle.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\TriangleBy2sides1angle\obj\Debug\TriangleBy2sides1angle.pdb

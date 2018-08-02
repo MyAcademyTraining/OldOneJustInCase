@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\erathoNet\bin\Debug\erathoNet.exe.config
+D:\Telerik\HomeworkArray\erathoNet\bin\Debug\erathoNet.exe
+D:\Telerik\HomeworkArray\erathoNet\bin\Debug\erathoNet.pdb
+D:\Telerik\HomeworkArray\erathoNet\obj\Debug\erathoNet.exe
+D:\Telerik\HomeworkArray\erathoNet\obj\Debug\erathoNet.pdb
+D:\Telerik\HomeworkArray\erathoNet\obj\Debug\erathoNet.csprojResolveAssemblyReference.cache

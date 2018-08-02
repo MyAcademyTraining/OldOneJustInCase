@@ -1,0 +1,6 @@
+D:\Telerik\Exam_preparations\SaddyCooper\bin\Debug\SaddyCooper.exe.config
+D:\Telerik\Exam_preparations\SaddyCooper\bin\Debug\SaddyCooper.exe
+D:\Telerik\Exam_preparations\SaddyCooper\bin\Debug\SaddyCooper.pdb
+D:\Telerik\Exam_preparations\SaddyCooper\obj\Debug\SaddyCooper.csprojResolveAssemblyReference.cache
+D:\Telerik\Exam_preparations\SaddyCooper\obj\Debug\SaddyCooper.exe
+D:\Telerik\Exam_preparations\SaddyCooper\obj\Debug\SaddyCooper.pdb

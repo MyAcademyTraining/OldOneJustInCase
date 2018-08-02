@@ -1,0 +1,6 @@
+D:\Telerik\examPrep\Problem1_248\bin\Debug\Problem1_248.exe.config
+D:\Telerik\examPrep\Problem1_248\bin\Debug\Problem1_248.exe
+D:\Telerik\examPrep\Problem1_248\bin\Debug\Problem1_248.pdb
+D:\Telerik\examPrep\Problem1_248\obj\Debug\Problem1_248.csprojResolveAssemblyReference.cache
+D:\Telerik\examPrep\Problem1_248\obj\Debug\Problem1_248.exe
+D:\Telerik\examPrep\Problem1_248\obj\Debug\Problem1_248.pdb

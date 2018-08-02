@@ -1,0 +1,5 @@
+D:\Telerik\Cycles_homework\DecToBin\bin\Debug\DecToBin.exe.config
+D:\Telerik\Cycles_homework\DecToBin\bin\Debug\DecToBin.exe
+D:\Telerik\Cycles_homework\DecToBin\bin\Debug\DecToBin.pdb
+D:\Telerik\Cycles_homework\DecToBin\obj\Debug\DecToBin.exe
+D:\Telerik\Cycles_homework\DecToBin\obj\Debug\DecToBin.pdb

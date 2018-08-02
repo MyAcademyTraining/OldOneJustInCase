@@ -1,0 +1,8 @@
+D:\Telerik\HWNumericSystems\HexToDec\bin\Debug\HexToDec.exe.config
+D:\Telerik\HWNumericSystems\HexToDec\bin\Debug\HexToDec.exe
+D:\Telerik\HWNumericSystems\HexToDec\bin\Debug\HexToDec.pdb
+D:\Telerik\HWNumericSystems\HexToDec\obj\Debug\HexToDec.exe
+D:\Telerik\HWNumericSystems\HexToDec\obj\Debug\HexToDec.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HexToDec\bin\Debug\HexToDec.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HexToDec\obj\Debug\HexToDec.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\HexToDec\obj\Debug\HexToDec.pdb

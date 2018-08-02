@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\BinSearch\bin\Debug\BinSearch.exe.config
+D:\Telerik\HomeworkArray\BinSearch\bin\Debug\BinSearch.exe
+D:\Telerik\HomeworkArray\BinSearch\bin\Debug\BinSearch.pdb
+D:\Telerik\HomeworkArray\BinSearch\obj\Debug\BinSearch.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\BinSearch\obj\Debug\BinSearch.exe
+D:\Telerik\HomeworkArray\BinSearch\obj\Debug\BinSearch.pdb

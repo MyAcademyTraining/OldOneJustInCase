@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\Array1\bin\Debug\Array1.exe.config
+D:\Telerik\HomeworkArray\Array1\obj\Debug\Array1.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\Array1\bin\Debug\Array1.exe
+D:\Telerik\HomeworkArray\Array1\bin\Debug\Array1.pdb
+D:\Telerik\HomeworkArray\Array1\obj\Debug\Array1.exe
+D:\Telerik\HomeworkArray\Array1\obj\Debug\Array1.pdb

@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\PhPVar\bin\Debug\PhPVar.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\PhPVar\bin\Debug\PhPVar.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\PhPVar\bin\Debug\PhPVar.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\PhPVar\obj\Debug\PhPVar.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\PhPVar\obj\Debug\PhPVar.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\PhPVar\obj\Debug\PhPVar.csprojResolveAssemblyReference.cache

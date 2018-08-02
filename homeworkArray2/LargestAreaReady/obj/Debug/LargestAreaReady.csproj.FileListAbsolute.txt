@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\homeworkArray2\LargestAreaReady\bin\Debug\LargestAreaReady.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\homeworkArray2\LargestAreaReady\bin\Debug\LargestAreaReady.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\homeworkArray2\LargestAreaReady\bin\Debug\LargestAreaReady.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\homeworkArray2\LargestAreaReady\obj\Debug\LargestAreaReady.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\homeworkArray2\LargestAreaReady\obj\Debug\LargestAreaReady.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\homeworkArray2\LargestAreaReady\obj\Debug\LargestAreaReady.csprojResolveAssemblyReference.cache

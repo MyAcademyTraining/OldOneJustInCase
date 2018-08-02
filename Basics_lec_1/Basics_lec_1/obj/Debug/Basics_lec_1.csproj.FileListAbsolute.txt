@@ -1,0 +1,6 @@
+D:\Telerik\Basics_lec_1\Basics_lec_1\bin\Debug\Basics_lec_1.exe.config
+D:\Telerik\Basics_lec_1\Basics_lec_1\obj\Debug\Basics_lec_1.csprojResolveAssemblyReference.cache
+D:\Telerik\Basics_lec_1\Basics_lec_1\bin\Debug\Basics_lec_1.exe
+D:\Telerik\Basics_lec_1\Basics_lec_1\bin\Debug\Basics_lec_1.pdb
+D:\Telerik\Basics_lec_1\Basics_lec_1\obj\Debug\Basics_lec_1.exe
+D:\Telerik\Basics_lec_1\Basics_lec_1\obj\Debug\Basics_lec_1.pdb

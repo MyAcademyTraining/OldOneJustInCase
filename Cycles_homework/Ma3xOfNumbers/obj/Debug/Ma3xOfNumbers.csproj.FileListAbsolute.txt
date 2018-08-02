@@ -1,0 +1,5 @@
+D:\Telerik\Cycles_homework\Ma3xOfNumbers\bin\Debug\Ma3xOfNumbers.exe.config
+D:\Telerik\Cycles_homework\Ma3xOfNumbers\bin\Debug\Ma3xOfNumbers.exe
+D:\Telerik\Cycles_homework\Ma3xOfNumbers\bin\Debug\Ma3xOfNumbers.pdb
+D:\Telerik\Cycles_homework\Ma3xOfNumbers\obj\Debug\Ma3xOfNumbers.exe
+D:\Telerik\Cycles_homework\Ma3xOfNumbers\obj\Debug\Ma3xOfNumbers.pdb

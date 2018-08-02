@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Telerik\HomeworkArray\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\MergeSort\bin\Debug\MergeSort.exe
+D:\Telerik\HomeworkArray\MergeSort\bin\Debug\MergeSort.pdb
+D:\Telerik\HomeworkArray\MergeSort\obj\Debug\MergeSort.exe
+D:\Telerik\HomeworkArray\MergeSort\obj\Debug\MergeSort.pdb

@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\ReverseDigits\bin\Debug\ReverseDigits.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\ReverseDigits\bin\Debug\ReverseDigits.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\ReverseDigits\bin\Debug\ReverseDigits.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\ReverseDigits\obj\Debug\ReverseDigits.csprojResolveAssemblyReference.cache
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\ReverseDigits\obj\Debug\ReverseDigits.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\ReverseDigits\obj\Debug\ReverseDigits.pdb

@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWOOP3ExtMethsDelesLambdaLINQ\HWOOP3ExtMethsDelesLambdaLINQ\bin\Debug\HWOOP3ExtMethsDelesLambdaLINQ.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWOOP3ExtMethsDelesLambdaLINQ\HWOOP3ExtMethsDelesLambdaLINQ\bin\Debug\HWOOP3ExtMethsDelesLambdaLINQ.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWOOP3ExtMethsDelesLambdaLINQ\HWOOP3ExtMethsDelesLambdaLINQ\bin\Debug\HWOOP3ExtMethsDelesLambdaLINQ.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWOOP3ExtMethsDelesLambdaLINQ\HWOOP3ExtMethsDelesLambdaLINQ\obj\Debug\HWOOP3ExtMethsDelesLambdaLINQ.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWOOP3ExtMethsDelesLambdaLINQ\HWOOP3ExtMethsDelesLambdaLINQ\obj\Debug\HWOOP3ExtMethsDelesLambdaLINQ.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWOOP3ExtMethsDelesLambdaLINQ\HWOOP3ExtMethsDelesLambdaLINQ\obj\Debug\HWOOP3ExtMethsDelesLambdaLINQ.pdb

@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Substrng\bin\Debug\Substrng.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Substrng\bin\Debug\Substrng.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Substrng\bin\Debug\Substrng.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Substrng\obj\Debug\Substrng.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Substrng\obj\Debug\Substrng.pdb

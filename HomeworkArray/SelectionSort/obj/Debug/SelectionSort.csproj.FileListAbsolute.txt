@@ -1,0 +1,5 @@
+D:\Telerik\HomeworkArray\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\Telerik\HomeworkArray\SelectionSort\bin\Debug\SelectionSort.exe
+D:\Telerik\HomeworkArray\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\Telerik\HomeworkArray\SelectionSort\obj\Debug\SelectionSort.exe
+D:\Telerik\HomeworkArray\SelectionSort\obj\Debug\SelectionSort.pdb

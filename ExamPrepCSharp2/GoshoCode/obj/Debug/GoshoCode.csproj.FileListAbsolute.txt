@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\GoshoCode\bin\Debug\GoshoCode.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\GoshoCode\bin\Debug\GoshoCode.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\GoshoCode\bin\Debug\GoshoCode.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\GoshoCode\obj\Debug\GoshoCode.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\GoshoCode\obj\Debug\GoshoCode.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\GoshoCode\obj\Debug\GoshoCode.csprojResolveAssemblyReference.cache

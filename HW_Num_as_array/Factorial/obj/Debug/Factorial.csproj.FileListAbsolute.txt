@@ -1,0 +1,6 @@
+D:\Telerik\HW_Num_as_array\Factorial\bin\Debug\Factorial.exe.config
+D:\Telerik\HW_Num_as_array\Factorial\bin\Debug\Factorial.exe
+D:\Telerik\HW_Num_as_array\Factorial\bin\Debug\Factorial.pdb
+D:\Telerik\HW_Num_as_array\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+D:\Telerik\HW_Num_as_array\Factorial\obj\Debug\Factorial.exe
+D:\Telerik\HW_Num_as_array\Factorial\obj\Debug\Factorial.pdb

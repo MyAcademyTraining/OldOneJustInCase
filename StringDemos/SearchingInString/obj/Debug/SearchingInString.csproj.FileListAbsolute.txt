@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\SearchingInString\bin\Debug\SearchingInString.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\SearchingInString\bin\Debug\SearchingInString.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\SearchingInString\bin\Debug\SearchingInString.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\SearchingInString\obj\Debug\SearchingInString.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\SearchingInString\obj\Debug\SearchingInString.pdb

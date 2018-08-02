@@ -1,0 +1,7 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb

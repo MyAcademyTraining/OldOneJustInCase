@@ -1,0 +1,5 @@
+D:\Telerik\lec_5_homework\BiggestOf3\bin\Debug\BiggestOf3.exe.config
+D:\Telerik\lec_5_homework\BiggestOf3\bin\Debug\BiggestOf3.exe
+D:\Telerik\lec_5_homework\BiggestOf3\bin\Debug\BiggestOf3.pdb
+D:\Telerik\lec_5_homework\BiggestOf3\obj\Debug\BiggestOf3.exe
+D:\Telerik\lec_5_homework\BiggestOf3\obj\Debug\BiggestOf3.pdb

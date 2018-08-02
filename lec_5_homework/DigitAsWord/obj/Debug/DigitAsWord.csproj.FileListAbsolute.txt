@@ -1,0 +1,5 @@
+D:\Telerik\lec_5_homework\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\Telerik\lec_5_homework\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\Telerik\lec_5_homework\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\Telerik\lec_5_homework\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\Telerik\lec_5_homework\DigitAsWord\obj\Debug\DigitAsWord.pdb

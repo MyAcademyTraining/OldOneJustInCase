@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Zerg\bin\Debug\Zerg.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Zerg\bin\Debug\Zerg.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Zerg\bin\Debug\Zerg.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Zerg\obj\Debug\Zerg.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\Zerg\obj\Debug\Zerg.pdb

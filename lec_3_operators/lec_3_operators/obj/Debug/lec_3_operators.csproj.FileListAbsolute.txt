@@ -1,0 +1,6 @@
+D:\Telerik\lec_3_operators\lec_3_operators\bin\Debug\lec_3_operators.exe.config
+D:\Telerik\lec_3_operators\lec_3_operators\bin\Debug\lec_3_operators.exe
+D:\Telerik\lec_3_operators\lec_3_operators\bin\Debug\lec_3_operators.pdb
+D:\Telerik\lec_3_operators\lec_3_operators\obj\Debug\lec_3_operators.csprojResolveAssemblyReference.cache
+D:\Telerik\lec_3_operators\lec_3_operators\obj\Debug\lec_3_operators.exe
+D:\Telerik\lec_3_operators\lec_3_operators\obj\Debug\lec_3_operators.pdb

@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWStringRevers\bin\Debug\HWStringRevers.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWStringRevers\bin\Debug\HWStringRevers.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWStringRevers\bin\Debug\HWStringRevers.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWStringRevers\obj\Debug\HWStringRevers.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWStringRevers\obj\Debug\HWStringRevers.pdb

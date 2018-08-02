@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

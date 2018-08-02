@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWParseTagsLastIndexOF\bin\Release\HWParseTagsLastIndexOF.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWParseTagsLastIndexOF\bin\Release\HWParseTagsLastIndexOF.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWParseTagsLastIndexOF\bin\Release\HWParseTagsLastIndexOF.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWParseTagsLastIndexOF\obj\Release\HWParseTagsLastIndexOF.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWParseTagsLastIndexOF\obj\Release\HWParseTagsLastIndexOF.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HWParseTagsLastIndexOF\obj\Release\HWParseTagsLastIndexOF.pdb

@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Trimming\bin\Debug\Trimming.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Trimming\bin\Debug\Trimming.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Trimming\bin\Debug\Trimming.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Trimming\obj\Debug\Trimming.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Trimming\obj\Debug\Trimming.pdb

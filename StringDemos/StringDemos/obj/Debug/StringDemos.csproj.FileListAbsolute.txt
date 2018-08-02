@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\StringDemos\bin\Debug\StringDemos.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\StringDemos\bin\Debug\StringDemos.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\StringDemos\bin\Debug\StringDemos.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\StringDemos\obj\Debug\StringDemos.csprojResolveAssemblyReference.cache
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\StringDemos\obj\Debug\StringDemos.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\StringDemos\obj\Debug\StringDemos.pdb

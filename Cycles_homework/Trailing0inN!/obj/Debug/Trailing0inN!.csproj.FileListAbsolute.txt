@@ -1,0 +1,6 @@
+D:\Telerik\Cycles_homework\Trailing0inN!\bin\Debug\Trailing0inN!.exe.config
+D:\Telerik\Cycles_homework\Trailing0inN!\obj\Debug\Trailing0inN!.csprojResolveAssemblyReference.cache
+D:\Telerik\Cycles_homework\Trailing0inN!\bin\Debug\Trailing0inN!.exe
+D:\Telerik\Cycles_homework\Trailing0inN!\bin\Debug\Trailing0inN!.pdb
+D:\Telerik\Cycles_homework\Trailing0inN!\obj\Debug\Trailing0inN!.exe
+D:\Telerik\Cycles_homework\Trailing0inN!\obj\Debug\Trailing0inN!.pdb

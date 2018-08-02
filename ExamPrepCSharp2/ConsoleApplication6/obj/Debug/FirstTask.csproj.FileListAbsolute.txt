@@ -1,0 +1,4 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\ConsoleApplication6\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\HW_Methods\bin\Debug\HW_Methods.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\HW_Methods\bin\Debug\HW_Methods.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\HW_Methods\bin\Debug\HW_Methods.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\HW_Methods\obj\Debug\HW_Methods.csprojResolveAssemblyReference.cache
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\HW_Methods\obj\Debug\HW_Methods.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\HW_Methods\obj\Debug\HW_Methods.pdb

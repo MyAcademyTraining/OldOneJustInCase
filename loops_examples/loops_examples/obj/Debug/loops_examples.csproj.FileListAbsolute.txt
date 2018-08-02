@@ -1,0 +1,6 @@
+D:\Telerik\loops_examples\loops_examples\bin\Debug\loops_examples.exe.config
+D:\Telerik\loops_examples\loops_examples\bin\Debug\loops_examples.exe
+D:\Telerik\loops_examples\loops_examples\bin\Debug\loops_examples.pdb
+D:\Telerik\loops_examples\loops_examples\obj\Debug\loops_examples.csprojResolveAssemblyReference.cache
+D:\Telerik\loops_examples\loops_examples\obj\Debug\loops_examples.exe
+D:\Telerik\loops_examples\loops_examples\obj\Debug\loops_examples.pdb

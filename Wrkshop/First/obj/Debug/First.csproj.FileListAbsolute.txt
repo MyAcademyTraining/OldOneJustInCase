@@ -1,0 +1,6 @@
+D:\Telerik\Wrkshop\First\bin\Debug\First.exe.config
+D:\Telerik\Wrkshop\First\bin\Debug\First.exe
+D:\Telerik\Wrkshop\First\bin\Debug\First.pdb
+D:\Telerik\Wrkshop\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+D:\Telerik\Wrkshop\First\obj\Debug\First.exe
+D:\Telerik\Wrkshop\First\obj\Debug\First.pdb

@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\DecToHex\bin\Debug\DecToHex.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\DecToHex\bin\Debug\DecToHex.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\DecToHex\bin\Debug\DecToHex.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\DecToHex\obj\Debug\DecToHex.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\DecToHex\obj\Debug\DecToHex.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\DecToHex\obj\Debug\DecToHex.csprojResolveAssemblyReference.cache

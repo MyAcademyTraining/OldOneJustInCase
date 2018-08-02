@@ -1,0 +1,5 @@
+D:\Telerik\lec_3_operators\bit_mask\bin\Debug\bit_mask.exe.config
+D:\Telerik\lec_3_operators\bit_mask\bin\Debug\bit_mask.exe
+D:\Telerik\lec_3_operators\bit_mask\bin\Debug\bit_mask.pdb
+D:\Telerik\lec_3_operators\bit_mask\obj\Debug\bit_mask.exe
+D:\Telerik\lec_3_operators\bit_mask\obj\Debug\bit_mask.pdb

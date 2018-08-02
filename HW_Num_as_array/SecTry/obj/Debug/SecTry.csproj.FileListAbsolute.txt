@@ -1,0 +1,12 @@
+D:\Telerik\HW_Num_as_array\SecTry\bin\Debug\SecTry.exe.config
+D:\Telerik\HW_Num_as_array\SecTry\bin\Debug\SecTry.exe
+D:\Telerik\HW_Num_as_array\SecTry\bin\Debug\SecTry.pdb
+D:\Telerik\HW_Num_as_array\SecTry\obj\Debug\SecTry.csprojResolveAssemblyReference.cache
+D:\Telerik\HW_Num_as_array\SecTry\obj\Debug\SecTry.exe
+D:\Telerik\HW_Num_as_array\SecTry\obj\Debug\SecTry.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HW_Num_as_array\SecTry\bin\Debug\SecTry.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HW_Num_as_array\SecTry\obj\Debug\SecTry.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HW_Num_as_array\SecTry\obj\Debug\SecTry.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HW_Num_as_array\SecTry\bin\Debug\SecTry.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HW_Num_as_array\SecTry\bin\Debug\SecTry.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HW_Num_as_array\SecTry\obj\Debug\SecTry.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik\Cycles_homework\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+D:\Telerik\Cycles_homework\CalculateAgain\bin\Debug\CalculateAgain.exe
+D:\Telerik\Cycles_homework\CalculateAgain\bin\Debug\CalculateAgain.pdb
+D:\Telerik\Cycles_homework\CalculateAgain\obj\Debug\CalculateAgain.csprojResolveAssemblyReference.cache
+D:\Telerik\Cycles_homework\CalculateAgain\obj\Debug\CalculateAgain.exe
+D:\Telerik\Cycles_homework\CalculateAgain\obj\Debug\CalculateAgain.pdb

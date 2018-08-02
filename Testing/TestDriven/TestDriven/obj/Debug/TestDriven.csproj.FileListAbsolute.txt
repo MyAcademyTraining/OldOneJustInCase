@@ -1,0 +1,10 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\TestDriven.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\TestDriven.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\TestDriven.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\nunit.framework.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\Simple.Mocking.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\nunit.framework.xml
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\bin\Debug\Simple.Mocking.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\obj\Debug\TestDriven.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\obj\Debug\TestDriven.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\TestDriven\TestDriven\obj\Debug\TestDriven.pdb

@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\CommonClassSystem\CommonClassSystemDemo\bin\Debug\CommonClassSystemDemo.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\CommonClassSystem\CommonClassSystemDemo\bin\Debug\CommonClassSystemDemo.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\CommonClassSystem\CommonClassSystemDemo\bin\Debug\CommonClassSystemDemo.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\CommonClassSystem\CommonClassSystemDemo\obj\Debug\CommonClassSystemDemo.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\CommonClassSystem\CommonClassSystemDemo\obj\Debug\CommonClassSystemDemo.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\CommonClassSystem\CommonClassSystemDemo\obj\Debug\CommonClassSystemDemo.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\MaxSum\bin\Debug\MaxSum.exe.config
+D:\Telerik\HomeworkArray\MaxSum\bin\Debug\MaxSum.exe
+D:\Telerik\HomeworkArray\MaxSum\bin\Debug\MaxSum.pdb
+D:\Telerik\HomeworkArray\MaxSum\obj\Debug\MaxSum.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\MaxSum\obj\Debug\MaxSum.exe
+D:\Telerik\HomeworkArray\MaxSum\obj\Debug\MaxSum.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\MaxIncreasingSequance\bin\Debug\MaxIncreasingSequance.exe.config
+D:\Telerik\HomeworkArray\MaxIncreasingSequance\bin\Debug\MaxIncreasingSequance.exe
+D:\Telerik\HomeworkArray\MaxIncreasingSequance\bin\Debug\MaxIncreasingSequance.pdb
+D:\Telerik\HomeworkArray\MaxIncreasingSequance\obj\Debug\MaxIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\MaxIncreasingSequance\obj\Debug\MaxIncreasingSequance.exe
+D:\Telerik\HomeworkArray\MaxIncreasingSequance\obj\Debug\MaxIncreasingSequance.pdb

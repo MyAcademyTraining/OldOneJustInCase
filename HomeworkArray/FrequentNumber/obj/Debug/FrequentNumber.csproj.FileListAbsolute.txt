@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\FrequentNumber\bin\Debug\FrequentNumber.exe.config
+D:\Telerik\HomeworkArray\FrequentNumber\bin\Debug\FrequentNumber.exe
+D:\Telerik\HomeworkArray\FrequentNumber\bin\Debug\FrequentNumber.pdb
+D:\Telerik\HomeworkArray\FrequentNumber\obj\Debug\FrequentNumber.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\FrequentNumber\obj\Debug\FrequentNumber.exe
+D:\Telerik\HomeworkArray\FrequentNumber\obj\Debug\FrequentNumber.pdb

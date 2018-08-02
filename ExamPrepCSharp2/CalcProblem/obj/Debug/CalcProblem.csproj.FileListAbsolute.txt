@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CalcProblem\bin\Debug\CalcProblem.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CalcProblem\bin\Debug\CalcProblem.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CalcProblem\bin\Debug\CalcProblem.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CalcProblem\obj\Debug\CalcProblem.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CalcProblem\obj\Debug\CalcProblem.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CalcProblem\obj\Debug\CalcProblem.pdb

@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\IntegersSum\bin\Debug\IntegersSum.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\IntegersSum\bin\Debug\IntegersSum.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\IntegersSum\bin\Debug\IntegersSum.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\IntegersSum\obj\Debug\IntegersSum.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\IntegersSum\obj\Debug\IntegersSum.pdb

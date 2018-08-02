@@ -1,0 +1,5 @@
+D:\Telerik\HomeworkArray\test\bin\Debug\test.exe.config
+D:\Telerik\HomeworkArray\test\bin\Debug\test.exe
+D:\Telerik\HomeworkArray\test\bin\Debug\test.pdb
+D:\Telerik\HomeworkArray\test\obj\Debug\test.exe
+D:\Telerik\HomeworkArray\test\obj\Debug\test.pdb

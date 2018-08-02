@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\DifferentAppl\bin\Debug\DifferentAppl.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\DifferentAppl\bin\Debug\DifferentAppl.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\DifferentAppl\bin\Debug\DifferentAppl.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\DifferentAppl\obj\Debug\DifferentAppl.csprojResolveAssemblyReference.cache
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\DifferentAppl\obj\Debug\DifferentAppl.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\DifferentAppl\obj\Debug\DifferentAppl.pdb

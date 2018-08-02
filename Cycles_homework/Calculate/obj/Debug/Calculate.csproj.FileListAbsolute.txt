@@ -1,0 +1,5 @@
+D:\Telerik\Cycles_homework\Calculate\bin\Debug\Calculate.exe.config
+D:\Telerik\Cycles_homework\Calculate\bin\Debug\Calculate.exe
+D:\Telerik\Cycles_homework\Calculate\bin\Debug\Calculate.pdb
+D:\Telerik\Cycles_homework\Calculate\obj\Debug\Calculate.exe
+D:\Telerik\Cycles_homework\Calculate\obj\Debug\Calculate.pdb

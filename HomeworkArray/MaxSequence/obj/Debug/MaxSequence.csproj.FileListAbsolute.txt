@@ -1,0 +1,5 @@
+D:\Telerik\HomeworkArray\MaxSequence\bin\Debug\MaxSequence.exe.config
+D:\Telerik\HomeworkArray\MaxSequence\bin\Debug\MaxSequence.exe
+D:\Telerik\HomeworkArray\MaxSequence\bin\Debug\MaxSequence.pdb
+D:\Telerik\HomeworkArray\MaxSequence\obj\Debug\MaxSequence.exe
+D:\Telerik\HomeworkArray\MaxSequence\obj\Debug\MaxSequence.pdb

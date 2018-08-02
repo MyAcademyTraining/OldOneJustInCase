@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\OOPlec\Example1\bin\Debug\Example1.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\OOPlec\Example1\bin\Debug\Example1.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\OOPlec\Example1\bin\Debug\Example1.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\OOPlec\Example1\obj\Debug\Example1.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\OOPlec\Example1\obj\Debug\Example1.pdb

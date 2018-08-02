@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\BinShort\bin\Debug\BinShort.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\BinShort\obj\Debug\BinShort.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\BinShort\bin\Debug\BinShort.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\BinShort\bin\Debug\BinShort.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\BinShort\obj\Debug\BinShort.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\HWNumericSystems\BinShort\obj\Debug\BinShort.pdb

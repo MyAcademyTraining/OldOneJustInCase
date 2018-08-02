@@ -1,0 +1,6 @@
+D:\Telerik\lec_5_homework\Int_Double_string\bin\Debug\Int_Double_string.exe.config
+D:\Telerik\lec_5_homework\Int_Double_string\bin\Debug\Int_Double_string.exe
+D:\Telerik\lec_5_homework\Int_Double_string\bin\Debug\Int_Double_string.pdb
+D:\Telerik\lec_5_homework\Int_Double_string\obj\Debug\Int_Double_string.exe
+D:\Telerik\lec_5_homework\Int_Double_string\obj\Debug\Int_Double_string.pdb
+D:\Telerik\lec_5_homework\Int_Double_string\obj\Debug\Int_Double_string.csprojResolveAssemblyReference.cache

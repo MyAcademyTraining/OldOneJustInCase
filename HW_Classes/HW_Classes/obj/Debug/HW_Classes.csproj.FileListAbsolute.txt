@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\HW_Classes\bin\Debug\HW_Classes.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\HW_Classes\bin\Debug\HW_Classes.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\HW_Classes\bin\Debug\HW_Classes.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\HW_Classes\obj\Debug\HW_Classes.csprojResolveAssemblyReference.cache
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\HW_Classes\obj\Debug\HW_Classes.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Classes\HW_Classes\obj\Debug\HW_Classes.pdb

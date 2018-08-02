@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ReplaceAndRemove\bin\Debug\ReplaceAndRemove.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ReplaceAndRemove\bin\Debug\ReplaceAndRemove.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ReplaceAndRemove\bin\Debug\ReplaceAndRemove.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ReplaceAndRemove\obj\Debug\ReplaceAndRemove.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ReplaceAndRemove\obj\Debug\ReplaceAndRemove.pdb

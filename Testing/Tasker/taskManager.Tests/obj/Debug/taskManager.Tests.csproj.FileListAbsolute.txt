@@ -1,0 +1,16 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\taskManager.Tests.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\taskManager.Tests.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\taskMAnager.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\taskMAnager.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\obj\Debug\taskManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\obj\Debug\taskManager.Tests.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\obj\Debug\taskManager.Tests.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\taskManager.Tests.dll.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Castle.Core.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Moq.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Telerik.JustMock.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Castle.Core.xml
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Moq.xml
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\taskManager.Tests\bin\Debug\Telerik.JustMock.xml

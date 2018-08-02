@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_SubStringInText\bin\Debug\HW_SubStringInText.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_SubStringInText\bin\Debug\HW_SubStringInText.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_SubStringInText\bin\Debug\HW_SubStringInText.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_SubStringInText\obj\Debug\HW_SubStringInText.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_SubStringInText\obj\Debug\HW_SubStringInText.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_SubStringInText\obj\Debug\HW_SubStringInText.pdb

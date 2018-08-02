@@ -1,0 +1,6 @@
+D:\Telerik\HomeworkArray\primeNumbersErathosten\bin\Debug\primeNumbersErathosten.exe.config
+D:\Telerik\HomeworkArray\primeNumbersErathosten\bin\Debug\primeNumbersErathosten.exe
+D:\Telerik\HomeworkArray\primeNumbersErathosten\bin\Debug\primeNumbersErathosten.pdb
+D:\Telerik\HomeworkArray\primeNumbersErathosten\obj\Debug\primeNumbersErathosten.csprojResolveAssemblyReference.cache
+D:\Telerik\HomeworkArray\primeNumbersErathosten\obj\Debug\primeNumbersErathosten.exe
+D:\Telerik\HomeworkArray\primeNumbersErathosten\obj\Debug\primeNumbersErathosten.pdb

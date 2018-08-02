@@ -1,0 +1,5 @@
+D:\Telerik\Lec_2_homework\ASCII\bin\Debug\ASCII.exe.config
+D:\Telerik\Lec_2_homework\ASCII\bin\Debug\ASCII.exe
+D:\Telerik\Lec_2_homework\ASCII\bin\Debug\ASCII.pdb
+D:\Telerik\Lec_2_homework\ASCII\obj\Debug\ASCII.exe
+D:\Telerik\Lec_2_homework\ASCII\obj\Debug\ASCII.pdb

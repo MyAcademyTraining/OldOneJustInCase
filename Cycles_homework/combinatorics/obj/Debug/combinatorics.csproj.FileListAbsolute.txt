@@ -1,0 +1,6 @@
+D:\Telerik\Cycles_homework\combinatorics\bin\Debug\combinatorics.exe.config
+D:\Telerik\Cycles_homework\combinatorics\bin\Debug\combinatorics.exe
+D:\Telerik\Cycles_homework\combinatorics\bin\Debug\combinatorics.pdb
+D:\Telerik\Cycles_homework\combinatorics\obj\Debug\combinatorics.csprojResolveAssemblyReference.cache
+D:\Telerik\Cycles_homework\combinatorics\obj\Debug\combinatorics.exe
+D:\Telerik\Cycles_homework\combinatorics\obj\Debug\combinatorics.pdb

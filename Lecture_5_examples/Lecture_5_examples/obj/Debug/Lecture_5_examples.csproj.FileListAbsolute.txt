@@ -1,0 +1,6 @@
+D:\Telerik\Lecture_5_examples\Lecture_5_examples\bin\Debug\Lecture_5_examples.exe.config
+D:\Telerik\Lecture_5_examples\Lecture_5_examples\bin\Debug\Lecture_5_examples.exe
+D:\Telerik\Lecture_5_examples\Lecture_5_examples\bin\Debug\Lecture_5_examples.pdb
+D:\Telerik\Lecture_5_examples\Lecture_5_examples\obj\Debug\Lecture_5_examples.csprojResolveAssemblyReference.cache
+D:\Telerik\Lecture_5_examples\Lecture_5_examples\obj\Debug\Lecture_5_examples.exe
+D:\Telerik\Lecture_5_examples\Lecture_5_examples\obj\Debug\Lecture_5_examples.pdb

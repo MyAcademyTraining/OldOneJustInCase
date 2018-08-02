@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ToUpperAndSoOn\bin\Debug\ToUpperAndSoOn.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ToUpperAndSoOn\bin\Debug\ToUpperAndSoOn.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ToUpperAndSoOn\bin\Debug\ToUpperAndSoOn.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ToUpperAndSoOn\obj\Debug\ToUpperAndSoOn.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ToUpperAndSoOn\obj\Debug\ToUpperAndSoOn.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\ToUpperAndSoOn\obj\Debug\ToUpperAndSoOn.csprojResolveAssemblyReference.cache

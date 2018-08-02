@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Bunnies\Bunnies\bin\Debug\Bunnies.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Bunnies\Bunnies\bin\Debug\Bunnies.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Bunnies\Bunnies\obj\Debug\Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Bunnies\Bunnies\obj\Debug\Bunnies.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Bunnies\Bunnies\obj\Debug\Bunnies.pdb

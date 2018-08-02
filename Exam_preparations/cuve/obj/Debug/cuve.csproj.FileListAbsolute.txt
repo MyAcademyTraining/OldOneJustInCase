@@ -1,0 +1,5 @@
+D:\Telerik\Exam_preparations\cuve\bin\Debug\cuve.exe.config
+D:\Telerik\Exam_preparations\cuve\bin\Debug\cuve.exe
+D:\Telerik\Exam_preparations\cuve\bin\Debug\cuve.pdb
+D:\Telerik\Exam_preparations\cuve\obj\Debug\cuve.exe
+D:\Telerik\Exam_preparations\cuve\obj\Debug\cuve.pdb

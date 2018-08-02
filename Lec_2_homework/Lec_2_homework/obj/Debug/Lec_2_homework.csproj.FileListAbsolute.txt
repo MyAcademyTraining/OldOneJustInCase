@@ -1,0 +1,6 @@
+D:\Telerik\Lec_2_homework\Lec_2_homework\bin\Debug\Lec_2_homework.exe.config
+D:\Telerik\Lec_2_homework\Lec_2_homework\bin\Debug\Lec_2_homework.exe
+D:\Telerik\Lec_2_homework\Lec_2_homework\bin\Debug\Lec_2_homework.pdb
+D:\Telerik\Lec_2_homework\Lec_2_homework\obj\Debug\Lec_2_homework.csprojResolveAssemblyReference.cache
+D:\Telerik\Lec_2_homework\Lec_2_homework\obj\Debug\Lec_2_homework.exe
+D:\Telerik\Lec_2_homework\Lec_2_homework\obj\Debug\Lec_2_homework.pdb

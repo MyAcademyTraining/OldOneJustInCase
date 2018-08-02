@@ -1,0 +1,5 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\HW_Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_corectBrackets\bin\Debug\HW_corectBrackets.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_corectBrackets\bin\Debug\HW_corectBrackets.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_corectBrackets\bin\Debug\HW_corectBrackets.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_corectBrackets\obj\Debug\HW_corectBrackets.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\HW_corectBrackets\obj\Debug\HW_corectBrackets.pdb

@@ -1,0 +1,5 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ParseTags\bin\Release\ParseTags.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ParseTags\bin\Release\ParseTags.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ParseTags\bin\Release\ParseTags.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ParseTags\obj\Release\ParseTags.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ParseTags\obj\Release\ParseTags.pdb

@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\KotTakoa\bin\Debug\KotTakoa.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\KotTakoa\bin\Debug\KotTakoa.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\KotTakoa\bin\Debug\KotTakoa.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\KotTakoa\obj\Debug\KotTakoa.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\KotTakoa\obj\Debug\KotTakoa.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\KotTakoa\obj\Debug\KotTakoa.csprojResolveAssemblyReference.cache

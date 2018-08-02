@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ReplaceTags\bin\Debug\ReplaceTags.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ReplaceTags\bin\Debug\ReplaceTags.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ReplaceTags\obj\Debug\ReplaceTags.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ReplaceTags\obj\Debug\ReplaceTags.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\StringDemos\ReplaceTags\obj\Debug\ReplaceTags.csprojResolveAssemblyReference.cache

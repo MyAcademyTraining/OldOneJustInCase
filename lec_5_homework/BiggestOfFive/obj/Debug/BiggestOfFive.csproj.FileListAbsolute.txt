@@ -1,0 +1,6 @@
+D:\Telerik\lec_5_homework\BiggestOfFive\bin\Debug\BiggestOfFive.exe.config
+D:\Telerik\lec_5_homework\BiggestOfFive\bin\Debug\BiggestOfFive.exe
+D:\Telerik\lec_5_homework\BiggestOfFive\bin\Debug\BiggestOfFive.pdb
+D:\Telerik\lec_5_homework\BiggestOfFive\obj\Debug\BiggestOfFive.exe
+D:\Telerik\lec_5_homework\BiggestOfFive\obj\Debug\BiggestOfFive.pdb
+D:\Telerik\lec_5_homework\BiggestOfFive\obj\Debug\BiggestOfFive.csprojResolveAssemblyReference.cache

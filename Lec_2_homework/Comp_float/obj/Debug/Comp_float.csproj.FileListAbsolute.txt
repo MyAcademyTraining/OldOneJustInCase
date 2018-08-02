@@ -1,0 +1,5 @@
+D:\Telerik\Lec_2_homework\Comp_float\bin\Debug\Comp_float.exe.config
+D:\Telerik\Lec_2_homework\Comp_float\bin\Debug\Comp_float.exe
+D:\Telerik\Lec_2_homework\Comp_float\bin\Debug\Comp_float.pdb
+D:\Telerik\Lec_2_homework\Comp_float\obj\Debug\Comp_float.exe
+D:\Telerik\Lec_2_homework\Comp_float\obj\Debug\Comp_float.pdb

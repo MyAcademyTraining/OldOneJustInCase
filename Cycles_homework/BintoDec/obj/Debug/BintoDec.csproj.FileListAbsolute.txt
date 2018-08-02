@@ -1,0 +1,6 @@
+D:\Telerik\Cycles_homework\BintoDec\bin\Debug\BintoDec.exe.config
+D:\Telerik\Cycles_homework\BintoDec\bin\Debug\BintoDec.exe
+D:\Telerik\Cycles_homework\BintoDec\bin\Debug\BintoDec.pdb
+D:\Telerik\Cycles_homework\BintoDec\obj\Debug\BintoDec.csprojResolveAssemblyReference.cache
+D:\Telerik\Cycles_homework\BintoDec\obj\Debug\BintoDec.exe
+D:\Telerik\Cycles_homework\BintoDec\obj\Debug\BintoDec.pdb

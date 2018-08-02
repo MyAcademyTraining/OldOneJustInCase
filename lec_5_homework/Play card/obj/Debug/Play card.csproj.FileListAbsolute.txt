@@ -1,0 +1,5 @@
+D:\Telerik\lec_5_homework\Play card\bin\Debug\Play card.exe.config
+D:\Telerik\lec_5_homework\Play card\bin\Debug\Play card.exe
+D:\Telerik\lec_5_homework\Play card\bin\Debug\Play card.pdb
+D:\Telerik\lec_5_homework\Play card\obj\Debug\Play card.exe
+D:\Telerik\lec_5_homework\Play card\obj\Debug\Play card.pdb

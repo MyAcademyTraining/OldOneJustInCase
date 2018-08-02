@@ -1,0 +1,6 @@
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Splitting\bin\Debug\Splitting.exe.config
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Splitting\bin\Debug\Splitting.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Splitting\bin\Debug\Splitting.pdb
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Splitting\obj\Debug\Splitting.csprojResolveAssemblyReference.cache
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Splitting\obj\Debug\Splitting.exe
+c:\users\desertfox\documents\visual studio 2015\Projects\StringDemos\Splitting\obj\Debug\Splitting.pdb

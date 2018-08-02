@@ -1,0 +1,6 @@
+D:\Telerik\Lec_2_homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Telerik\Lec_2_homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Telerik\Lec_2_homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Telerik\Lec_2_homework\ConsoleApplication1\obj\Debug\Employee_data.csprojResolveAssemblyReference.cache
+D:\Telerik\Lec_2_homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Telerik\Lec_2_homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

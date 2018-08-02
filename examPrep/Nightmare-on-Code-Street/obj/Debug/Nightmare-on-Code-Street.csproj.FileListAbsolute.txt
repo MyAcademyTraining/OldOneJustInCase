@@ -1,0 +1,5 @@
+D:\Telerik\examPrep\Nightmare-on-Code-Street\bin\Debug\Nightmare-on-Code-Street.exe.config
+D:\Telerik\examPrep\Nightmare-on-Code-Street\bin\Debug\Nightmare-on-Code-Street.exe
+D:\Telerik\examPrep\Nightmare-on-Code-Street\bin\Debug\Nightmare-on-Code-Street.pdb
+D:\Telerik\examPrep\Nightmare-on-Code-Street\obj\Debug\Nightmare-on-Code-Street.exe
+D:\Telerik\examPrep\Nightmare-on-Code-Street\obj\Debug\Nightmare-on-Code-Street.pdb

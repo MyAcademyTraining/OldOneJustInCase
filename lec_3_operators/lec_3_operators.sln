@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lec_3_operators", "lec_3_operators\lec_3_operators.csproj", "{EE62DB47-4DE5-4A23-8E02-5C4B2FAF2435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bit_mask", "bit_mask\bit_mask.csproj", "{24E80E74-5640-49C7-9306-08956A478A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE62DB47-4DE5-4A23-8E02-5C4B2FAF2435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE62DB47-4DE5-4A23-8E02-5C4B2FAF2435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE62DB47-4DE5-4A23-8E02-5C4B2FAF2435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE62DB47-4DE5-4A23-8E02-5C4B2FAF2435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E80E74-5640-49C7-9306-08956A478A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E80E74-5640-49C7-9306-08956A478A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E80E74-5640-49C7-9306-08956A478A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E80E74-5640-49C7-9306-08956A478A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Telerik\examPrep\bitmask\bin\Debug\bitmask.exe.config
+D:\Telerik\examPrep\bitmask\bin\Debug\bitmask.exe
+D:\Telerik\examPrep\bitmask\bin\Debug\bitmask.pdb
+D:\Telerik\examPrep\bitmask\obj\Debug\bitmask.csprojResolveAssemblyReference.cache
+D:\Telerik\examPrep\bitmask\obj\Debug\bitmask.exe
+D:\Telerik\examPrep\bitmask\obj\Debug\bitmask.pdb

@@ -1,0 +1,8 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\bin\Debug\TaskManager.Client.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\bin\Debug\taskMAnager.dll
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\bin\Debug\taskMAnager.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Testing\Tasker\TaskManager.Client\obj\Debug\TaskManager.Client.pdb

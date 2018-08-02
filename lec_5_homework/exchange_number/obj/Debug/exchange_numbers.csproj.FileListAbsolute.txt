@@ -1,0 +1,5 @@
+D:\Telerik\lec_5_homework\exchange_number\bin\Debug\exchange_number.exe.config
+D:\Telerik\lec_5_homework\exchange_number\bin\Debug\exchange_number.exe
+D:\Telerik\lec_5_homework\exchange_number\bin\Debug\exchange_number.pdb
+D:\Telerik\lec_5_homework\exchange_number\obj\Debug\exchange_number.exe
+D:\Telerik\lec_5_homework\exchange_number\obj\Debug\exchange_number.pdb

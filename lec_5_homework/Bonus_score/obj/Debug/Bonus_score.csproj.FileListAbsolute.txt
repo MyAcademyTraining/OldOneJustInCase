@@ -1,0 +1,5 @@
+D:\Telerik\lec_5_homework\Bonus_score\bin\Debug\Bonus_score.exe.config
+D:\Telerik\lec_5_homework\Bonus_score\bin\Debug\Bonus_score.exe
+D:\Telerik\lec_5_homework\Bonus_score\bin\Debug\Bonus_score.pdb
+D:\Telerik\lec_5_homework\Bonus_score\obj\Debug\Bonus_score.exe
+D:\Telerik\lec_5_homework\Bonus_score\obj\Debug\Bonus_score.pdb

@@ -1,0 +1,6 @@
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CatStrophe\bin\Debug\CatStrophe.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CatStrophe\bin\Debug\CatStrophe.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CatStrophe\bin\Debug\CatStrophe.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CatStrophe\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CatStrophe\obj\Debug\CatStrophe.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\ExamPrepCSharp2\CatStrophe\obj\Debug\CatStrophe.pdb

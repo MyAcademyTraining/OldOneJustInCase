@@ -1,0 +1,7 @@
+D:\Telerik\Exam_prep\Exam_prep\bin\Debug\Exam_prep.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Exam_prep\Exam_prep\bin\Debug\Exam_prep.exe.config
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Exam_prep\Exam_prep\bin\Debug\Exam_prep.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Exam_prep\Exam_prep\bin\Debug\Exam_prep.pdb
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Exam_prep\Exam_prep\obj\Debug\Exam_prep.csprojResolveAssemblyReference.cache
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Exam_prep\Exam_prep\obj\Debug\Exam_prep.exe
+C:\Users\DesertFox\Documents\Visual Studio 2015\Projects\Exam_prep\Exam_prep\obj\Debug\Exam_prep.pdb

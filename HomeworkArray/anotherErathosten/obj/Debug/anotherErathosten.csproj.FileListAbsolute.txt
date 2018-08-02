@@ -1,0 +1,5 @@
+D:\Telerik\HomeworkArray\anotherErathosten\bin\Debug\anotherErathosten.exe.config
+D:\Telerik\HomeworkArray\anotherErathosten\bin\Debug\anotherErathosten.exe
+D:\Telerik\HomeworkArray\anotherErathosten\bin\Debug\anotherErathosten.pdb
+D:\Telerik\HomeworkArray\anotherErathosten\obj\Debug\anotherErathosten.exe
+D:\Telerik\HomeworkArray\anotherErathosten\obj\Debug\anotherErathosten.pdb

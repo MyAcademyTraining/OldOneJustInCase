@@ -1,0 +1,5 @@
+D:\Telerik\Cycles_homework\OddandEvenProduct\bin\Debug\OddandEvenProduct.exe.config
+D:\Telerik\Cycles_homework\OddandEvenProduct\bin\Debug\OddandEvenProduct.exe
+D:\Telerik\Cycles_homework\OddandEvenProduct\bin\Debug\OddandEvenProduct.pdb
+D:\Telerik\Cycles_homework\OddandEvenProduct\obj\Debug\OddandEvenProduct.exe
+D:\Telerik\Cycles_homework\OddandEvenProduct\obj\Debug\OddandEvenProduct.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\lec_5_homework\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+D:\Telerik\lec_5_homework\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+D:\Telerik\lec_5_homework\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+D:\Telerik\lec_5_homework\MultiplicationSign\obj\Debug\MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\Telerik\lec_5_homework\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+D:\Telerik\lec_5_homework\MultiplicationSign\obj\Debug\MultiplicationSign.pdb
